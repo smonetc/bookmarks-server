@@ -1,0 +1,11 @@
+{"message":"Invalid rating '1' supplied","level":"error"}
+{"message":"Invalid url 'irs.gov' supplied","level":"error"}
+{"message":"Bookmark with 727f19ff-1b4b-4e38-84d2-a613a22913eb created","level":"info"}
+{"message":"Bookmark with id 63e49d64-bc4e-42f2-bcd5-6b065c409be5 not found.","level":"error"}
+{"message":"Bookmark with 9aca2a67-61ec-49f4-a48e-b616b0002cf6 created","level":"info"}
+{"message":"URL is required","level":"error"}
+{"message":"Invalid url 'bbbbb.com' supplied","level":"error"}
+{"message":"Bookmark with 618a7755-236f-485c-a40b-067ed0075878 created","level":"info"}
+{"message":"Bookmark with id 11b30cc6-9331-4679-b0ac-8ce8b4eb01d2 not found.","level":"error"}
+{"message":"Bookmark with 2ae4a460-5550-4324-94ef-b0934cf046eb created","level":"info"}
+{"message":"Card with id e05a0721-0c27-49e7-9379-3b9f88e1991a deleted.","level":"info"}
