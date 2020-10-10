@@ -9,3 +9,7 @@
 {"message":"Bookmark with id 11b30cc6-9331-4679-b0ac-8ce8b4eb01d2 not found.","level":"error"}
 {"message":"Bookmark with 2ae4a460-5550-4324-94ef-b0934cf046eb created","level":"info"}
 {"message":"Card with id e05a0721-0c27-49e7-9379-3b9f88e1991a deleted.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
