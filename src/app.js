@@ -16,6 +16,7 @@ app.use(morgan(morganOption))
 app.use(helmet())
 app.use(cors())
 
+
 app.use(function validateBearerToken(req, res, next) {
   const apiToken = process.env.API_TOKEN
   const authToken = req.get('Authorization')
@@ -27,7 +28,7 @@ app.use(function validateBearerToken(req, res, next) {
   next()
 })
 
-app.use(bookmarkRouter)
+app.use('/api/bookmarks', bookmarkRouter)
 
 app.get('/', (req, res) => {
        res.send('Hello, world!')
